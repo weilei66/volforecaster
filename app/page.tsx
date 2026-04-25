@@ -1,11 +1,11 @@
-import { Header } from "@/components/dashboard/header"
-import { AppSidebar } from "@/components/dashboard/app-sidebar"
-import { MarketHeatmap } from "@/components/dashboard/market-heatmap"
-import { FuturesIndexChart } from "@/components/dashboard/futures-index-chart"
-import { SectorOverview } from "@/components/dashboard/sector-overview"
-import { VolumePieChart } from "@/components/dashboard/volume-pie-chart"
-import { GainersLosers } from "@/components/dashboard/gainers-losers"
-import { ExchangeOverview } from "@/components/dashboard/exchange-overview"
+import { Header } from "../components/dashboard/header"
+import { AppSidebar } from "../components/dashboard/app-sidebar"
+import { MarketHeatmap } from "../components/dashboard/market-heatmap"
+import { FuturesIndexChart } from "../components/dashboard/futures-index-chart"
+import { SectorOverview } from "../components/dashboard/sector-overview"
+import { VolumePieChart } from "../components/dashboard/volume-pie-chart"
+import { GainersLosers } from "../components/dashboard/gainers-losers"
+import { ExchangeOverview } from "../components/dashboard/exchange-overview"
 
 export default function DashboardPage() {
   return (
